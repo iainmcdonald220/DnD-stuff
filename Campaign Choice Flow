@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T19:16:38.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Uhw6cNcKQuVJmfF5Oc-w" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T16:59:15.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="I4v_VWpGbn_Ow2asP76C" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2000" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="iSviiw1Qz2v21v7jbwe--2">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="iSviiw1Qz2v21v7jbwe--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Start - Awake at Tavern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Initial fight in from the pass, end up at the Tavern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iSviiw1Qz2v21v7jbwe--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iSviiw1Qz2v21v7jbwe--2" edge="1">
@@ -83,7 +83,7 @@
         <mxCell id="iSviiw1Qz2v21v7jbwe--21" value="Head to the mountain pass" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iSviiw1Qz2v21v7jbwe--24" target="5LLJxcxbWRk-i25vkxuj-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iSviiw1Qz2v21v7jbwe--24" target="5LLJxcxbWRk-i25vkxuj-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="650" as="targetPoint" />
           </mxGeometry>
@@ -91,77 +91,77 @@
         <mxCell id="iSviiw1Qz2v21v7jbwe--24" value="Arrive in mountain pass" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="480" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-1" target="5LLJxcxbWRk-i25vkxuj-5">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-1" target="5LLJxcxbWRk-i25vkxuj-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-1" target="5LLJxcxbWRk-i25vkxuj-3">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-1" target="5LLJxcxbWRk-i25vkxuj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-1" value="Arrive in the arctic forest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-1" value="Arrive in the arctic forest" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-3">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-3" value="Lucia, Wolf engagement optional fight if they find the cave" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-3" value="Lucia, Wolf engagement optional fight if they find the cave" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-5" target="5LLJxcxbWRk-i25vkxuj-9">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-5" target="5LLJxcxbWRk-i25vkxuj-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-5" target="5LLJxcxbWRk-i25vkxuj-8">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-5" target="5LLJxcxbWRk-i25vkxuj-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-5" value="See lights flickering at the ruins and investigate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-5" value="See lights flickering at the ruins and investigate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-8" target="5LLJxcxbWRk-i25vkxuj-12">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-8" target="5LLJxcxbWRk-i25vkxuj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-8" value="Sneak - Cultist engagement, surprise combat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-8" value="Sneak - Cultist engagement, surprise combat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-9" target="5LLJxcxbWRk-i25vkxuj-12">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-9" target="5LLJxcxbWRk-i25vkxuj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-9" value="Loud - Cultists shout cryptic insults before attacking first" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-9" value="Loud - Cultists shout cryptic insults before attacking first" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-12" target="5LLJxcxbWRk-i25vkxuj-16">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-12" target="5LLJxcxbWRk-i25vkxuj-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-12" value="Investigate ruins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-12" value="Investigate ruins" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-16" target="5LLJxcxbWRk-i25vkxuj-20">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-16" target="5LLJxcxbWRk-i25vkxuj-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-16" value="Explore Cultist Dungeon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-16" value="Explore Cultist Dungeon" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-20" target="5LLJxcxbWRk-i25vkxuj-22">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-20" target="5LLJxcxbWRk-i25vkxuj-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-20" target="5LLJxcxbWRk-i25vkxuj-24">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5LLJxcxbWRk-i25vkxuj-20" target="5LLJxcxbWRk-i25vkxuj-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-20" value="Various engagements, encounter Doctor Faversham" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-20" value="Various engagements, encounter Aberforth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="1220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-22" value="Talk to Doctor Faversham, let him live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-22" value="Talk to Aberforth, let him live, optional assist" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5LLJxcxbWRk-i25vkxuj-24" value="Fight Doctor Faversham" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LLJxcxbWRk-i25vkxuj-24" value="Fight Aberforth - scripted victory for DM, Aberforth becomes unhelpful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
