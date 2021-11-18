@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T18:14:24.586Z" agent="5.0 (Windows)" etag="-Vc2Ku0iTLK7HZCFUnkR" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T18:19:12.000Z" agent="5.0 (Windows)" etag="cS6o2p18fyKUAM3qjsZQ" version="15.7.3" type="github">
   <diagram id="dHTiQicPxemEjTeu6--A" name="Page-1">
-    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cTL8VKEvbyzo1-409jFR-1" value="&lt;div&gt;Me&lt;/div&gt;&lt;div&gt;Iain McDonald&lt;/div&gt;&lt;div&gt;dob. 20/03/1987&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-1" value="&lt;div&gt;Me - Iain McDonald&lt;/div&gt;&lt;div&gt;dob. 20/03/1987&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cTL8VKEvbyzo1-409jFR-2" value="&lt;div style=&quot;font-size: 11px&quot;&gt;Sister - Fiona McDonald&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;dob. 20/03/1987&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;Dancer / Model&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;London&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="cTL8VKEvbyzo1-409jFR-6" value="&lt;div&gt;Ronald McDonald&lt;/div&gt;&lt;div&gt;31/03/1954&lt;/div&gt;&lt;div&gt;Retired - ex. Railway&lt;/div&gt;&lt;div&gt;Kippax, Leeds&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-7" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Dorothy Greta McDonald (nee. Wagstaff)&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;12/03/1957&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Logistics/Supply Mgr&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Kippax, Leeds&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-7" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Dorothy Greta McDonald (Wagstaff)&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;12/03/1957&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Logistics/Supply Mgr&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Kippax, Leeds&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="880" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cTL8VKEvbyzo1-409jFR-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cTL8VKEvbyzo1-409jFR-6" target="cTL8VKEvbyzo1-409jFR-7">
@@ -70,13 +70,29 @@
         <mxCell id="cTL8VKEvbyzo1-409jFR-17" value="&lt;div&gt;Lauren Hilton&lt;/div&gt;&lt;div&gt;dob. 05/05/not sure the year&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cTL8VKEvbyzo1-409jFR-18" target="cTL8VKEvbyzo1-409jFR-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="210" />
+              <mxPoint x="780" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTL8VKEvbyzo1-409jFR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cTL8VKEvbyzo1-409jFR-18" target="cTL8VKEvbyzo1-409jFR-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="210" />
+              <mxPoint x="420" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTL8VKEvbyzo1-409jFR-18" value="&lt;div&gt;Catherine McDonald (Yule)&lt;/div&gt;&lt;div&gt;10/06/1921&lt;/div&gt;&lt;div&gt;Deceased 2012&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-19" value="&lt;div&gt;David McDonald&lt;/div&gt;&lt;div&gt;20/11/1915&lt;/div&gt;&lt;div&gt;Deceased 1972&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-20" value="&lt;div&gt;Jack Wagstaff&lt;/div&gt;&lt;div&gt;05/09/1923&lt;/div&gt;&lt;div&gt;Deceased 1970&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="960" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cTL8VKEvbyzo1-409jFR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" target="cTL8VKEvbyzo1-409jFR-32">
@@ -89,7 +105,7 @@
             <mxPoint x="1100" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-21" value="&lt;div&gt;Lena Wagstaff (Russell)&lt;br&gt;&lt;/div&gt;&lt;div&gt;28/08/1923&lt;/div&gt;&lt;div&gt;Deceased 1998&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cTL8VKEvbyzo1-409jFR-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTL8VKEvbyzo1-409jFR-19" target="cTL8VKEvbyzo1-409jFR-18">
@@ -104,14 +120,11 @@
             <mxPoint x="990" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-30" value="&lt;div&gt;Robert McDonald&lt;/div&gt;&lt;div&gt;20/03/1952&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cTL8VKEvbyzo1-409jFR-31" value="&lt;div&gt;David McDonald&lt;/div&gt;&lt;div&gt;20/11/1950&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTL8VKEvbyzo1-409jFR-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cTL8VKEvbyzo1-409jFR-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1080" y="240" width="120" height="60" as="geometry" />
@@ -234,6 +247,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1820" y="320" as="sourcePoint" />
             <mxPoint x="1660" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTL8VKEvbyzo1-409jFR-71" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="210" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
